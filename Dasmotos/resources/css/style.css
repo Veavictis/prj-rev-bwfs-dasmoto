@@ -1,0 +1,58 @@
+#heading {
+    background-image: url(/resources/css/pattern.jpeg);
+    text-align: center;
+    font-size: 100px;
+    color: Khaki;
+}
+
+.item h2 {
+    background-color: mediumspringgreen;
+}
+
+#brushes {
+    color: white;
+    font-size: 32px;
+}
+
+#hacksaw {
+    font-family: Helvetica;
+    font-weight: bold;
+    color: blue;
+}
+
+.item1 h2 {
+    background-color: lightcoral;
+}
+
+#frames {
+    color: white;
+    font-size: 32px;
+}
+
+h3 {
+    font-weight: bold;
+    display: block;
+}
+
+#frames1 {
+    font-family: Helvetica;
+    font-weight: bold;
+    color: blue;
+}
+
+#paint {
+    color: white;
+    font-size: 32px;
+    
+}
+
+.item2 h2 {
+    background-color: skyblue;
+}
+
+#paint1 {
+    font-family: Helvetica;
+    font-weight: bold;
+    color: blue;
+}
+    
